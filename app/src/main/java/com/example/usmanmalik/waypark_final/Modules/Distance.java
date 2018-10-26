@@ -1,0 +1,12 @@
+package com.example.usmanmalik.waypark_final.Modules;
+
+public class Distance
+{
+    public String text;
+    public int value;
+
+    public Distance(String text, int value) {
+        this.text = text;
+        this.value = value;
+    }
+}
